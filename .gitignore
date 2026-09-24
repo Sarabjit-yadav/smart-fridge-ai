@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ML model files
+*.h5
+*.keras
+*.pt
+*.onnx
+
+# Generated runtime files
+captured_from_live.jpg
+
+# Dataset / local data
+dataset/
+data/
+*.zip
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
