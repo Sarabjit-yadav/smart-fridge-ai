@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pillow
+pyttsx3
+tensorflow
